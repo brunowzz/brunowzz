@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 26px;"> Hi, I'm Bruno 👋 </h1>
 
-<p align="center" style="font-size: 14px;"> Full Stack Developer 👩‍💻</p>
+<p align="center" style="font-size: 14px;"> Front=end Developer 👩‍💻</p>
 
 <p>
     Passionate about technology and that's where I found myself. This is the space where I will spend all my time
