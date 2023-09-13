@@ -1,43 +1,24 @@
-<h1 align="center" style="font-size: 26px;"> Olá, eu sou o Bruno 👋 </h1>
+# 💫 About Me:
+- 🔭 I am currently working at WebSocial.<br>- 🌱 I am learning and work React.js.<br>- 👯 I am looking to collaborate on new projects.<br>- 📫 How to reach me: brunovbarreiras@gmail.com.
 
-<p align="center" style="font-size: 14px;"> Front-end Developer 👩‍💻</p>
 
-<p>
-    Apaixonado por tecnologia e foi aí que me encontrei. Este é o espaço onde passarei todo o meu tempo expressando minhas ideias através de códigos.
-</p>
-<h1> 📲 Contato: </h1>
-<div>
-    <a href="https://www.linkedin.com/in/bruno-barreiras/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-    </a>
-    <a href="mailto:brunovbarreiras@gmail.com?" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.instagram.com/brunowzz/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/brnwzz#0898) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunowzz) 
 
-# 💻 Tecnologias que trabalho:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brunowzz&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brunowzz&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowzz&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 Minhas Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=brunowzz&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=brunowzz&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunowzz&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-[![](https://visitcount.itsvg.in/api?id=brunowzz&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brunowzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brunowzz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ---
-
+[![](https://visitcount.itsvg.in/api?id=brunowzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-![Snake animation](https://github.com/brunowzz/brunowzz/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
