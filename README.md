@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at SouJunior.<br>🌱 I work with Next.js, React.js and Vue.js.<br>👯 I am looking to collaborate on new projects.<br>📫 How to reach me: brunovbarreiras@gmail.com.
+🔭 I am currently working at BTG Pactual.<br>🌱 I work with Next.js, React.js and Vue.js.<br>👯 I am looking to collaborate on new projects.<br>📫 How to reach me: brunovbarreiras@gmail.com.
 
 
 ## 🌐 Socials:
